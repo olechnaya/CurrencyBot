@@ -4,7 +4,7 @@ CURRENCY_VALUES = {
     'рубль': 'RUB',
     'юань': 'CNY',
     'евро': 'EUR',
-    'доллар': 'USD',
+    'доллар': 'USD'
 }
 
 API_KEY = "CnNDse0iUw1UdNvFJBnUlFXOrtQTZC5i"
